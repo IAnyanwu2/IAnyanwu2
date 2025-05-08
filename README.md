@@ -21,7 +21,7 @@ Hi, I'm Ikechukwu Anyanwu— a Computer Engineering student at Georgia State Uni
 ## 📫 Contact Me
 
 - Email: ike.anyanwu02@gmail.com
-- Connect with me on [LinkedIn]((https://www.linkedin.com/in/ike-anyanwu-/))
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/ike-anyanwu-/)
 - Always open to collaboration and learning opportunities!
 
 ## 🎓 Education
